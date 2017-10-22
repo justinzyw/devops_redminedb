@@ -1,4 +1,4 @@
-FROM mysql:3.4.3
+FROM mysql:5.7.20
 
 ENV MYSQL_DATABASE redmine
 
