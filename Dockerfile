@@ -1,0 +1,7 @@
+FROM mysql:3.4.3
+
+ENV MYSQL_DATABASE redmine
+
+ENV MYSQL_USER admin
+
+ENV MYSQL_PASSWORD zaq12wsx
